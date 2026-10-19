@@ -37,8 +37,7 @@ Pilot your trusty ship through deep space as you dodge, shoot, and blast incomin
 
 ### Play Online
 You can play the game directly in your browser on Scratch:
-👉 **[Play Lemonoids on Scratch](https://scratch.mit.edu)** *(Replace with your actual Scratch project link)*
-
+👉 **[Play Lemonoids on Scratch]([https://scratch.mit.edu](https://scratch.mit.edu/projects/878749266))** *
 ### Play / Edit Locally
 1. Download the `.sb3` project file from this repository ([`Lemonoids.sb3`](./Lemonoids.sb3)).
 2. Open the [Scratch 3.0 Offline Editor](https://scratch.mit.edu/download) or visit [scratch.mit.edu](https://scratch.mit.edu/projects/editor/).
